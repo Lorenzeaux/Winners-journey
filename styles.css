@@ -2,3 +2,7 @@ body {
     color: deeppink;
     font-family: sans-serif;
 }
+ol {
+    list-style: arabic-indic;
+    border: 1px dotted black
+}
